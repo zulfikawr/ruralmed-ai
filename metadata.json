@@ -1,0 +1,5 @@
+{
+  "name": "RuralMed AI Assistant",
+  "description": "A multimodal medical image analysis and triage support tool designed for rural healthcare settings.",
+  "requestFramePermissions": ["camera"]
+}
